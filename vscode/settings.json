@@ -1,0 +1,21 @@
+{
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.unusedImports": true
+    },
+    "editor.foldingImportsByDefault": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "notebook.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "notebook.formatOnSave.enabled": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.autoComplete.extraPaths": [],
+    "workbench.colorTheme": "Barbie Theme"
+}
